@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3372761 */
-  src: url('iconfont.woff2?t=1651807002335') format('woff2'),
-       url('iconfont.woff?t=1651807002335') format('woff'),
-       url('iconfont.ttf?t=1651807002335') format('truetype'),
-       url('iconfont.svg?t=1651807002335#iconfont') format('svg');
+  src: url('iconfont.woff2?t=1652116740196') format('woff2'),
+       url('iconfont.woff?t=1652116740196') format('woff'),
+       url('iconfont.ttf?t=1652116740196') format('truetype'),
+       url('iconfont.svg?t=1652116740196#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,179 +14,187 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-jianshu:before {
+  content: "\ffd2";
+}
+
+.icon-blog:before {
+  content: "\ffd3";
+}
+
+.icon-toutiao:before {
+  content: "\ffd4";
+}
+
 .icon-auto:before {
-  content: "\e629";
+  content: "\ffd5";
 }
 
 .icon-light:before {
-  content: "\e628";
+  content: "\ffd6";
 }
 
 .icon-dark:before {
-  content: "\e627";
+  content: "\ffd7";
 }
 
 .icon-menu-arrow:before {
-  content: "\e626";
+  content: "\ffd8";
 }
 
 .icon-language:before {
-  content: "\e625";
+  content: "\ffd9";
 }
 
 .icon-timeLine:before {
-  content: "\e620";
+  content: "\ffda";
 }
 
 .icon-eye1:before {
-  content: "\e624";
+  content: "\ffdb";
 }
 
 .icon-account:before {
-  content: "\e623";
+  content: "\ffdc";
 }
 
 .icon-copyright:before {
-  content: "\e622";
+  content: "\ffdd";
 }
 
 .icon-home:before {
-  content: "\e621";
+  content: "\ffde";
 }
 
 .icon-docs:before {
-  content: "\e61f";
+  content: "\ffdf";
 }
 
 .icon-FAQ:before {
-  content: "\e61e";
+  content: "\ffe0";
 }
 
 .icon-github:before {
-  content: "\e61d";
+  content: "\ffe1";
 }
 
 .icon-friend:before {
-  content: "\e61c";
+  content: "\ffe2";
 }
 
 .icon-eye:before {
-  content: "\e612";
+  content: "\ffe3";
 }
 
 .icon-notice:before {
-  content: "\e61b";
+  content: "\ffe4";
 }
 
 .icon-linkedin:before {
-  content: "\e61a";
+  content: "\ffe5";
 }
 
 .icon-email:before {
-  content: "\e619";
+  content: "\ffe6";
 }
 
 .icon-lock:before {
-  content: "\e618";
+  content: "\ffe7";
 }
 
 .icon-douban:before {
-  content: "\e617";
+  content: "\ffe8";
 }
 
 .icon-menu:before {
-  content: "\e616";
+  content: "\ffe9";
 }
 
 .icon-npm:before {
-  content: "\e615";
+  content: "\ffea";
 }
 
 .icon-message:before {
-  content: "\e614";
+  content: "\ffeb";
 }
 
 .icon-suggestion:before {
-  content: "\e613";
+  content: "\ffec";
 }
 
 .icon-douyin:before {
-  content: "\e611";
+  content: "\ffed";
 }
 
 .icon-gitlab:before {
-  content: "\e610";
+  content: "\ffee";
 }
 
 .icon-QQ:before {
-  content: "\e60f";
+  content: "\ffef";
 }
 
 .icon-bilibili:before {
-  content: "\e60e";
+  content: "\ff00";
 }
 
 .icon-bokeyuan:before {
-  content: "\e60d";
+  content: "\ff01";
 }
 
 .icon-weibo:before {
-  content: "\e60c";
+  content: "\ff02";
 }
 
 .icon-category:before {
-  content: "\e60b";
+  content: "\ff03";
 }
 
 .icon-zhihu:before {
-  content: "\e60a";
+  content: "\ff04";
 }
 
 .icon-date:before {
-  content: "\e609";
+  content: "\ff05";
 }
 
 .icon-taobao:before {
-  content: "\e608";
+  content: "\ff06";
 }
 
 .icon-theme:before {
-  content: "\e607";
+  content: "\ff07";
 }
 
 .icon-gitee:before {
-  content: "\e606";
+  content: "\ff08";
 }
 
 .icon-tag:before {
-  content: "\e605";
+  content: "\fff9";
 }
 
 .icon-csdn:before {
-  content: "\e604";
+  content: "\fffa";
 }
 
 .icon-beian:before {
-  content: "\62";
+  content: "\fffb";
 }
 
 .icon-facebook:before {
-  content: "\e601";
+  content: "\fffc";
 }
 
 .icon-search:before {
-  content: "\e603";
+  content: "\fffd";
 }
 
 .icon-zhiding:before {
-  content: "\e602";
+  content: "\fffe";
 }
 
 .icon-tools:before {
-  content: "\e670";
-}
-
-.icon-SD:before {
-  content: "\e600";
+  content: "\ffff";
 }
 

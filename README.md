@@ -3,7 +3,7 @@ home: true
 type: HomeDocs
 heroText: 主题开发笔记
 tagline: 一个好看的笔记博客主题
-heroImage: /hero.png
+# heroImage: /hero.png
 heroImageStyle: {
   display: block,
   margin: '4rem auto 2rem',
