@@ -1,0 +1,58 @@
+{
+  "id": "3388574",
+  "name": "ThemeDocs",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "29578877",
+      "name": "deploy",
+      "font_class": "deploy1",
+      "unicode": "f606",
+      "unicode_decimal": 62982
+    },
+    {
+      "icon_id": "29578875",
+      "name": "log",
+      "font_class": "log",
+      "unicode": "f605",
+      "unicode_decimal": 62981
+    },
+    {
+      "icon_id": "29578873",
+      "name": "deploy",
+      "font_class": "deploy",
+      "unicode": "f604",
+      "unicode_decimal": 62980
+    },
+    {
+      "icon_id": "29578870",
+      "name": "develop",
+      "font_class": "develop",
+      "unicode": "f603",
+      "unicode_decimal": 62979
+    },
+    {
+      "icon_id": "29578868",
+      "name": "plugin",
+      "font_class": "plugin",
+      "unicode": "f602",
+      "unicode_decimal": 62978
+    },
+    {
+      "icon_id": "29578861",
+      "name": "config",
+      "font_class": "config",
+      "unicode": "f601",
+      "unicode_decimal": 62977
+    },
+    {
+      "icon_id": "29578859",
+      "name": "base",
+      "font_class": "base",
+      "unicode": "f600",
+      "unicode_decimal": 62976
+    }
+  ]
+}
